@@ -206,11 +206,6 @@ header {
 /* Gestion des fleches du carrousel */
 #banner .arrow {
   position: absolute;
-  width: 98%;
-  bottom: 170px;
-  display: flex;
-  justify-content: space-between;
-  margin: 20px;
 }
 #banner .arrow_left {
   left: 10px;
